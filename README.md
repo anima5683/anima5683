@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Giulia or also @anima5683
 - 👀 I’m interested in a lot of things...probably too much to list it here.
-- 🌱 I’m currently learning AI stuff, Python etc.
+- 🌱 I’m currently learning how to code in Python.
 - ⚡ Fun fact: I love to play video games like Elder Scrolls online or League of Legends.
